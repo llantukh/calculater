@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+#content{
+  width: 500px;
+  border: 2px solid black;
+  background: lightgrey;
+}
+
+body{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+h1{
+  background: grey;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+form{
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+#calculate-button{
+  font-family: 'Dosis', sans-serif;
+  font-size: 15px;
+}
+
+.answer{
+  padding-bottom: 20px;
+  font-family: 'Dosis', sans-serif;
+
+}
